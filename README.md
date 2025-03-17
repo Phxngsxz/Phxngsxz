@@ -21,13 +21,6 @@
 
 ---
 
-## 🎮 Snake Game
-
-Play my Snake game here:  
-[![Snake Game](https://img.shields.io/badge/Snake_Game-000000?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Phxngsxz/snake-game)
-
----
-
 ## 🌎 Connect with Me
 
 [![YouTube](https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/your-profile)
