@@ -4,9 +4,10 @@
 
 ## 📊 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Phxngsxz&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Phxngsxz&layout=compact&theme=radical)
+<div style="display: flex;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Phxngsxz&show_icons=true&theme=radical" style="margin-right: 20px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phxngsxz&layout=compact&theme=radical"/>
+</div>
 
 ---
 
@@ -17,6 +18,13 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## 🎮 Snake Game
+
+Play my Snake game here:  
+[![Snake Game](https://img.shields.io/badge/Snake_Game-000000?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Phxngsxz/snake-game)
 
 ---
 
