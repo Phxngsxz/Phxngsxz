@@ -32,4 +32,12 @@
 
 ---
 
+ ![snake gif](https://github.com/Phxngsxz/Phxngsxz/blob/output/github-snake-dark.svg)
+
+
+ [![](https://visitcount.itsvg.in/api?id=Phxngsxz&icon=10&color=6)](https://visitcount.itsvg.in)
+
+
+---
+
 > "Your favorite quote or tagline here!"
