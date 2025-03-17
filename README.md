@@ -1,4 +1,4 @@
-# Hi 👋! My name is [Your Name], and I'm a [Your Role] from [Your Country] 🇨🇺
+# Hi 👋! My name is [Phngsaphon somin], and I'm a [Student] from [Phrae] 🇨🇺
 
 ---
 
