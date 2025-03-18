@@ -1,4 +1,5 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="img.jpg" alt="GitHub Banner" width="100%" />
+
 
 # Hi 👋! My name is [Phngsaphon somin], and I'm a [Student] from [Phrae] 🇨🇺
 
@@ -47,10 +48,10 @@
 ## 🌎 Connect with Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Phongsaphon.ssi@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-%23E4E6EB.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/your-profile)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-profile)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/your-profile)
-[![LINE](https://img.shields.io/badge/LINE-00C300.svg?style=for-the-badge&logo=line&logoColor=white)](https://line.me/ti/p/your-line-id)
+[![Facebook](https://img.shields.io/badge/Facebook-%23E4E6EB.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Phongsaphonsomsin)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/phxngsx.ss)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/kagenxu_)
+[![LINE](https://img.shields.io/badge/LINE-00C300.svg?style=for-the-badge&logo=line&logoColor=white)](https://line.me/ti/p/newmxi)
 
 ---
 
