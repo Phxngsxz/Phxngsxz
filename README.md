@@ -1,7 +1,7 @@
 <img src="img.jpg" alt="GitHub Banner" width="100%" />
 
 
-# Hi 👋! My name is [Phngsaphon somin], and I'm a [Student] from [Phrae] 🇨🇺
+# Hi 👋! My name is Phngsaphon somin, and I'm a Student from Phrae 🇨🇺
 
 ---
 
