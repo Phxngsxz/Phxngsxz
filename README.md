@@ -10,15 +10,16 @@
 <div align="center">
   <table>
     <tr>
-      <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Phxngsxz&show_icons=true&theme=radical" width="200%" />
+      <td valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=Phxngsxz&show_icons=true&theme=radical" width="100%" />
       </td>
-      <td valign="top" width="50%">
+      <td valign="top">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phxngsxz&layout=compact&theme=radical" width="100%" />
       </td>
     </tr>
   </table>
 </div>
+
 
 ---
 
