@@ -1,5 +1,6 @@
 <img src="img.jpg" alt="GitHub Banner" width="100%" />
 
+
 # Hi 👋! My name is Phngsaphon somin, and I'm a Student from Phrae 🇨🇺
 
 ---
@@ -7,14 +8,22 @@
 ## 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Phxngsxz&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Phxngsxz&theme=aura&hide_border=true" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phxngsxz&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=Phxngsxz&show_icons=true&theme=radical" width="200%" />
+      </td>
+      <td valign="top" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phxngsxz&layout=compact&theme=radical" width="100%" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
 ## 🚀 Tech Stack
+
 
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -47,6 +56,7 @@
 ---
 
 ![snake gif](https://github.com/Phxngsxz/Phxngsxz/blob/output/github-snake-dark.svg)
+
 
 ---
 
